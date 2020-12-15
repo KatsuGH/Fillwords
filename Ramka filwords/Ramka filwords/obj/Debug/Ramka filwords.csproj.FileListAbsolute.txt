@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Ramka filwords\Ramka filwords\bin\Debug\Ramka filwords.exe.config
+C:\Users\Admin\source\repos\Ramka filwords\Ramka filwords\bin\Debug\Ramka filwords.exe
+C:\Users\Admin\source\repos\Ramka filwords\Ramka filwords\bin\Debug\Ramka filwords.pdb
+C:\Users\Admin\source\repos\Ramka filwords\Ramka filwords\obj\Debug\Ramka filwords.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Ramka filwords\Ramka filwords\obj\Debug\Ramka filwords.exe
+C:\Users\Admin\source\repos\Ramka filwords\Ramka filwords\obj\Debug\Ramka filwords.pdb
